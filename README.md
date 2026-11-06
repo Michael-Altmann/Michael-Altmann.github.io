@@ -61,6 +61,10 @@ Für die Benutzeroberfläche wurden Funktionen entwickelt, die die Breite der Ka
 
 Der Trainingsmodus überprüft die eingegebenen Antworten und zeigt an, ob sie richtig oder falsch sind. Im Testmodus werden die Ergebnisse zusätzlich ausgewertet.
 
+## Kontakt
+
+**E-Mail:** michael.altmann20011@outlook.de
+
 ## Weiterentwicklung
 
 Dieses Portfolio wird künftig um weitere Programmierprojekte und neu erworbene Kenntnisse ergänzt.
