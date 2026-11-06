@@ -1,82 +1,66 @@
 # Michael Altmann – Projektportfolio
 
-Willkommen auf meinem GitHub-Repository!
+Willkommen in meinem Projektportfolio!
 
-Ich beschäftige mich mit der Anwendungsentwicklung und bereite mich auf ein Praktikum als **Fachinformatiker für Anwendungsentwicklung** vor.
+Ich bereite mich auf ein Praktikum als **Fachinformatiker für Anwendungsentwicklung** vor und stelle hier meine bisherigen Programmierkenntnisse sowie meine praktischen Erfahrungen vor.
 
-In diesem Portfolio stelle ich meine bisherigen Programmierkenntnisse und Projekte vor.
+## Programmierkenntnisse
 
-## 🌐 Meine Portfolio-Webseite
+**Programmiersprache:** C
 
-**[Portfolio-Webseite öffnen](https://michael-altmann.github.io/)**
+Bisher habe ich mich mit folgenden Themen beschäftigt:
 
-Die Webseite bietet einen Überblick über meine Kenntnisse und meine bisherigen praktischen Erfahrungen in der Softwareentwicklung.
+- Variablen und Datentypen
+- Bedingungen und Schleifen
+- Funktionen und strukturierte Programmierung
+- Arrays und Strukturen (`struct`)
+- Zeichenkettenverarbeitung
+- Dateiverarbeitung mit CSV-Dateien
+- Entwicklung konsolenbasierter Anwendungen
 
-## 💻 Meine Programmierkenntnisse
-
-- **C:** Grundlagen der strukturierten Programmierung
-- **Kontrollstrukturen:** Bedingungen und Schleifen
-- **Funktionen:** Strukturierung und Wiederverwendung von Programmcode
-- **Datenstrukturen:** Arrays und `struct`
-- **Dateiverarbeitung:** Einlesen und Verarbeiten von CSV-Dateien
-- **Konsolenanwendungen:** Entwicklung textbasierter Benutzeroberflächen
-
-## 📚 Projekt: Karteikarten-Lernsoftware
+## Projekt: Karteikarten-Lernsoftware
 
 **Programmiersprache:** C  
-**Projektart:** Gemeinschaftsprojekt mit einer anderen Person
+**Betriebssystem:** Windows  
+**Projektart:** Gemeinschaftsprojekt mit anderer Person
 
-Im Rahmen unserer Ausbildung haben wir gemeinsam eine konsolenbasierte Karteikarten-Lernsoftware entwickelt.
+### Projektbeschreibung
 
-Die Anwendung ermöglicht es, Vokabeln mithilfe digitaler Karteikarten zu lernen und den eigenen Wissensstand zu überprüfen.
+Gemeinsam haben wir eine konsolenbasierte Karteikarten-Lernsoftware entwickelt, mit der Benutzer Vokabeln lernen und ihren Wissensstand überprüfen können.
+
+Die Anwendung verwendet digitale Karteikarten, die innerhalb der Windows-Konsole dargestellt werden.
 
 ### Funktionen
 
-- Einlesen von Karteikarten aus CSV-Dateien
+- Einlesen von Vokabeln aus CSV-Dateien
 - Auswahl vorhandener Karteikartensätze
-- Trainingsmodus mit direkter Rückmeldung
-- Testmodus zur Überprüfung des Lernfortschritts
-- Auswertung richtiger und falscher Antworten
-- Dynamische Anpassung der Karteikartenbreite an die Textlänge
-- Farbige Darstellung innerhalb der Windows-Konsole
+- Trainingsmodus mit Rückmeldung zu den Antworten
+- Anzeige der richtigen Lösung bei falschen Antworten
+- Testmodus mit Auswertung der Ergebnisse
+- Automatische Anpassung der Karteikartenbreite an die Wortlänge
+- Zentrierte Darstellung der Wörter
+- Farbige Gestaltung der Karteikarten
 
 ### Screenshots
 
-**Vorderseite der Karteikarte**
+**Vorderseite**
 
-![Vorderseite mit rotem Hintergrund und weißer Schrift](karteikarte-vorderseite.png)
+![Vorderseite der Karteikarte mit rotem Hintergrund und weißer Schrift](karteikarte-vorderseite.png)
 
-**Rückseite der Karteikarte**
+**Rückseite**
 
-![Rückseite mit hellgrauem Hintergrund und roter Schrift](karteikarte-rueckseite.png)
+![Rückseite der Karteikarte mit hellgrauem Hintergrund und roter Schrift](karteikarte-rueckseite.png)
 
 ### Technische Umsetzung
 
-Die Lernsoftware wurde in **C** entwickelt.
+Die Anwendung wurde in der Programmiersprache C umgesetzt.
 
-Für die Darstellung der Karteikarten werden Funktionen verwendet, die deren Breite anhand der Textlänge berechnen. Dadurch können unterschiedlich lange Wörter mittig innerhalb der Karteikarten angezeigt werden.
+Die Vokabeln werden aus CSV-Dateien eingelesen und in Datenstrukturen gespeichert.
 
-Die Vokabeldaten werden aus CSV-Dateien eingelesen und in geeigneten Datenstrukturen verarbeitet.
+Für die Benutzeroberfläche wurden Funktionen entwickelt, die die Breite der Karteikarten anhand der Textlänge berechnen. Dadurch werden auch unterschiedlich lange Wörter mittig dargestellt.
 
-Die Benutzeroberfläche wird direkt in der Windows-Konsole dargestellt.
+Der Trainingsmodus überprüft die eingegebenen Antworten und zeigt an, ob sie richtig oder falsch sind. Im Testmodus werden die Ergebnisse zusätzlich ausgewertet.
 
-### Quellcode
+## Weiterentwicklung
 
-Der Quellcode befindet sich derzeit in einem privaten GitLab-Repository, da die Anwendung gemeinsam entwickelt wurde.
-
-## 🛠️ Über dieses Repository
-
-Dieses Repository enthält den Quellcode meiner persönlichen Portfolio-Webseite.
-
-Die Webseite wurde mit **HTML und CSS** umgesetzt und verwendet ein dunkles, kontrastreiches Design mit roten Akzenten.
-
-Bei der Gestaltung wurde auf Lesbarkeit, Tastaturbedienbarkeit und eine Darstellung auf unterschiedlichen Bildschirmgrößen geachtet.
-
-## 📬 Kontakt
-
-Weitere Informationen zu meinen Projekten und Kenntnissen findest du auf meiner [Portfolio-Webseite](https://michael-altmann.github.io/).
-
----
-
-*Dieses Portfolio wird mit zunehmender praktischer Erfahrung und weiteren Projekten ergänzt.*
-
+Dieses Portfolio wird künftig um weitere Programmierprojekte und neu erworbene Kenntnisse ergänzt.
