@@ -24,8 +24,7 @@ Die Webseite bietet einen Überblick über meine Kenntnisse und meine bisherigen
 ## 📚 Projekt: Karteikarten-Lernsoftware
 
 **Programmiersprache:** C  
-**Plattform:** Windows  
-**Projektart:** Gemeinschaftsprojekt mit Aylin
+**Projektart:** Gemeinschaftsprojekt mit einer anderen Person
 
 Im Rahmen unserer Ausbildung haben wir gemeinsam eine konsolenbasierte Karteikarten-Lernsoftware entwickelt.
 
